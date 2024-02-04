@@ -1,8 +1,0 @@
-SpeechRecognition
-gtts
-pygame
-pyaudio
-bs4
-cmake
-face-recognition
-opencv-python-headless
