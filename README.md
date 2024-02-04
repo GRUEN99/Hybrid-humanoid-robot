@@ -32,5 +32,5 @@ Expansion of the robot's capabilities through additional features and modules.
 
 
 NOTE
-1. The images (for face recognition) should be saved in the file user_images with the name that the robot need to say/ recognise.
+1. The images for facial recognition should be saved in user_images folder with name that the robot needs to recognise with.
 2. Run the main.py for output.
