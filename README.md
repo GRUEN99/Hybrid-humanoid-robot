@@ -1,4 +1,4 @@
-# Hybrid-humanoid-robot
+# ServoAI fusion Robot
 OVERVIEW
 This project showcases the development of a hybrid humanoid robot capable of interacting with its environment and users through advanced technologies. The robot integrates facial recognition, object detection, voice command-based movement, and speech recognition functionalities, providing a comprehensive and interactive experience.
 
